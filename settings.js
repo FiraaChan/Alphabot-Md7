@@ -19,7 +19,7 @@ global.available = false //status online (online)
 
 // Other
 global.botname = "F I R A B O T Z🐣"
-global.ownername= "F I R AC A N Z"
+global.ownername= "F I R A C A N Z"
 global.myweb ="https://api-alphabot.herokuapp.com/"
 global.youtube = "https://youtube.com/c/FiraaChan"
 global.github = "https://FiraaChan.github.io/"
