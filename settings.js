@@ -18,8 +18,8 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "F I R A B O T Z🐣"
-global.ownername= "F I R A C A N Z"
+global.botname = "ɪ   ᴋ   ᴋ   ʏ  ʙᴏᴛㅤ"
+global.ownername= "ɪ   ᴋ   ᴋ   ʏ"
 global.myweb ="https://api-alphabot.herokuapp.com/"
 global.youtube = "https://youtube.com/c/FiraaChan"
 global.github = "https://FiraaChan.github.io/"
@@ -29,8 +29,8 @@ global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6283830815715","6283830815715","6283830815715"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© F I R A B O T Z' //sticker wm
-global.author = 'Di Buat Oleh FiraaChan' //sticker wm
+global.packname = '© ɪ   ᴋ   ᴋ   ʏ  ʙᴏᴛㅤ' //sticker wm
+global.author = 'Di Buat Oleh ɪ   ᴋ   ᴋ   ʏ ' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
